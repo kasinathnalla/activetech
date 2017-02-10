@@ -1,0 +1,43 @@
+v humio<div id="">
+	{{message}}
+	<form id="donation-list" name="donation-list" ng-submit="submitForm">
+		<table>
+			<tr>
+				<td>Enter Person Name</td>
+				<td><input type="text" id="name" name="name"
+					ng-model="donation.name" /></td>
+			</tr>
+
+			<tr>
+				<td>Enter person Address</td>
+				<td><input type="text" id="address" ng-model="donation.address" /></td>
+			</tr>
+			<tr>
+				<td>Enter person Phone number</td>
+				<td><input type="text" id="phoneNumber"
+					ng-model="donation.phoneNumber" /></td>
+			</tr>
+			<tr>
+				<td>Enter person Donation Amount</td>
+				<td><input type="text" id="amount" ng-model="donation.amount" /></td>
+			</tr>
+			<tr>
+				<td>Enter person's Donation Comment</td>
+				<td><input type="text" id="comment" ng-model="donation.comment" /></td>
+			</tr>
+
+			<tr>
+				<td>Enter person's Donation Comment</td>
+				<td><input type="datetime-local" id="comment" ng-model="donation.donatedOn" /></td>
+			</tr>
+
+		</table>
+		<br />
+		<button type="submit" ng-click="submitForm()">Submit your
+			comments</button>
+
+
+	</form>
+
+
+</div>

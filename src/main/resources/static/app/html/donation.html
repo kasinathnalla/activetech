@@ -1,0 +1,25 @@
+<h1>Below are the people who generously donated the amount to our
+	temple Growth</h1>
+
+
+<table>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Amount</th>
+			<th>Donated On</th>
+			<!-- This needs to go on pop up	<th>Contact Number</th>
+			<th>Address</th>
+			<th>Comments</th> -->
+		</tr>
+	</thead>
+	<tr ng-repeat="donation in donations"
+		ng-click="detailedDonationOnPopUp(donation)">
+		<td>{{ donation.name }}</td>
+		<td>{{ donation.amount }}</td>
+		<td>{{ donation.donatedOn }}</td>
+		<!-- <td>{{ donation.phoneNumber}}</td>
+		<td>{{ donation.address }}</td>
+		<td>{{ donation.comment}}</td> -->
+	</tr>
+</table>
