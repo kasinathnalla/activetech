@@ -1,0 +1,14 @@
+com/arkiv/sports/referee/model/MongoUser.class
+com/arkiv/sports/referee/service/MongoDbAuthenticationProvider.class
+com/arkiv/sports/referee/service/UserService.class
+com/arkiv/sports/referee/rest/LoginController.class
+com/arkiv/sports/referee/config/SecurityConfiguration.class
+com/arkiv/sports/referee/config/AjaxAuthenticationFailureHandler.class
+com/arkiv/sports/referee/dao/LoginDAO.class
+com/arkiv/sports/referee/config/Http401UnauthorizedEntryPoint.class
+com/arkiv/sports/referee/config/AjaxAuthenticationSuccessHandler.class
+com/arkiv/sports/referee/Application.class
+com/arkiv/sports/referee/config/UserNotActivatedException.class
+com/arkiv/sports/referee/rest/HelloRest.class
+com/arkiv/sports/referee/config/AjaxLogoutSuccessHandler.class
+com/arkiv/sports/referee/ServletInitializer.class
