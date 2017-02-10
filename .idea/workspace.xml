@@ -2,31 +2,246 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb9304d-e0f6-459e-8c7a-ff39c83895c2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/arkiv/sports/referee/WebAppConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/arkiv/sports/referee/WebAppConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/arkiv/sports/referee/config/WebAppConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/arkiv/sports/referee/config/WebAppConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/arkiv/sports/referee/WebAppInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/arkiv/sports/referee/WebAppInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/admin.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/admin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/js/adminlogged.js" afterPath="$PROJECT_DIR$/src/main/resources/static/app/js/adminlogged.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/adminloggedin.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/adminloggedin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/app-datasource.properties" afterPath="$PROJECT_DIR$/src/main/resources/static/app/app-datasource.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/js/app.js" afterPath="$PROJECT_DIR$/src/main/resources/static/app/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/certifications.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/certifications.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/contact.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/donation.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/donation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/js/donation.js" afterPath="$PROJECT_DIR$/src/main/resources/static/app/js/donation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/dubbak.css" afterPath="$PROJECT_DIR$/src/main/resources/static/app/dubbak.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/dubbak.js" afterPath="$PROJECT_DIR$/src/main/resources/static/app/dubbak.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/js/dubbak.js" afterPath="$PROJECT_DIR$/src/main/resources/static/app/js/dubbak.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/history.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/history.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/home.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/index.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/js/jquery.js" afterPath="$PROJECT_DIR$/src/main/resources/static/app/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/projects.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/js/service.js" afterPath="$PROJECT_DIR$/src/main/resources/static/app/js/service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/app/html/services.html" afterPath="$PROJECT_DIR$/src/main/resources/static/app/html/services.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/jbossews_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/jbossews_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mobile_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_10_0_RC1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_mobile_spring_mobile_device_1_1_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/action_hooks/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/catalina.policy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/catalina.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/context.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/logging.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/postgresql_module.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/server.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/settings.base.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/settings.prod.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/settings.rhcloud.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/settings.stg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/tomcat-users.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/config/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/README.cron" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/daily/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/hourly/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/minutely/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/monthly/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/weekly/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/weekly/chrono.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/weekly/chronograph" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/weekly/jobs.allow" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/cron/weekly/jobs.deny" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/markers/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.openshift/markers/java7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jbossews.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/ServletInitializer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/config/AjaxAuthenticationFailureHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/config/AjaxAuthenticationSuccessHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/config/AjaxLogoutSuccessHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/config/Http401UnauthorizedEntryPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/config/SecurityConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/config/UserNotActivatedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/dao/LoginDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/model/MongoUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/rest/HelloRest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/rest/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/service/MongoDbAuthenticationProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/arkiv/sports/referee/service/UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/app-datasource.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/bootstrap-extra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/dubbak.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/dubbak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/admin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/adminloggedin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/careers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/certifications.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/development.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/donation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/gallary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/history.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/projects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/html/services.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/img/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/adminlogged.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/angular-cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/angular-route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/donation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/dubbak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/app/js/service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/static/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/ServletInitializer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/config/AjaxAuthenticationFailureHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/config/AjaxAuthenticationSuccessHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/config/AjaxLogoutSuccessHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/config/Http401UnauthorizedEntryPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/config/SecurityConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/config/UserNotActivatedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/dao/LoginDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/model/MongoUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/rest/HelloRest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/rest/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/service/MongoDbAuthenticationProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/com/arkiv/sports/referee/service/UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/app-datasource.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/bootstrap-extra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/dubbak.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/dubbak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/admin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/adminloggedin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/careers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/certifications.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/development.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/donation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/gallary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/history.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/projects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/html/services.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/img/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/adminlogged.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/angular-cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/angular-route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/donation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/dubbak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/app/js/service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/classes/static/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/bson-3.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/classmate-1.3.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/hibernate-validator-5.3.4.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/jackson-annotations-2.8.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/jackson-core-2.8.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/jackson-databind-2.8.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/jcl-over-slf4j-1.7.22.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/jul-to-slf4j-1.7.22.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/log4j-over-slf4j-1.7.22.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/logback-classic-1.1.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/logback-core-1.1.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/mongodb-driver-3.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/mongodb-driver-core-3.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/slf4j-api-1.7.22.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-aop-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-beans-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-actuator-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-autoconfigure-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-starter-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-starter-actuator-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-starter-data-mongodb-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-starter-logging-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-starter-mobile-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-starter-security-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-boot-starter-web-1.5.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-context-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-core-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-data-commons-1.13.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-data-mongodb-1.10.0.RC1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-expression-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-mobile-device-1.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-security-config-4.2.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-security-core-4.2.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-security-web-4.2.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-tx-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-web-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/spring-webmvc-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jbossews-1.0/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
     </list>
     <ignored path="jbossews.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,7 +334,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5187166">
+            <state vertical-scroll-proportion="0.5855615">
               <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
               <folding />
             </state>
@@ -802,7 +1017,7 @@
       <created>1486695257972</created>
       <option name="number" value="Default" />
       <updated>1486695257972</updated>
-      <workItem from="1486695261047" duration="2192000" />
+      <workItem from="1486695261047" duration="2823000" />
     </task>
     <task id="LOCAL-00001" summary="initia comit">
       <created>1486695919831</created>
@@ -820,7 +1035,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2192000" />
+    <option name="totallyTimeSpent" value="2823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="152" y="23" width="859" height="821" extended-state="0" />
@@ -838,9 +1053,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32743362" sideWeight="0.49429038" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32743362" sideWeight="0.49429038" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -952,7 +1167,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5187166">
+        <state vertical-scroll-proportion="0.5855615">
           <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
           <folding />
         </state>
