@@ -18,8 +18,8 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
     </properties>
+    <!-- Comment needs to be deleted -->
 
-<!—-comment —->
     <dependencies>
 
 
